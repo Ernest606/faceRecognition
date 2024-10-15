@@ -1,3 +1,5 @@
+THIS PROJECT IS MODIFIED VERSION OF THIS GITHUB REPOSITORY: https://github.com/ageitgey/face_recognition
+
 # Face Recognition
 
 _You can also read a translated version of this file [in Chinese 简体中文版](https://github.com/ageitgey/face_recognition/blob/master/README_Simplified_Chinese.md) or [in Korean 한국어](https://github.com/ageitgey/face_recognition/blob/master/README_Korean.md) or [in Japanese 日本語](https://github.com/m-i-k-i/face_recognition/blob/master/README_Japanese.md)._
